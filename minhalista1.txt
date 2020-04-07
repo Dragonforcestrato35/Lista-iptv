@@ -1,0 +1,217 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO" tvg-logo="http://img.starbr.in/1559761759_1d66b76a8b8286f521bdf7f4b0750f9bf10a8ec3.png" group-title="Canais HBO",HBO HD
+http://proxyts.ec.cx:8082/hls1/hbo.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="HB2" tvg-name="HBO 2" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559761827_5aaa156f4572e5e678fae272a3c103da9a7a0ed6.png" group-title="Canais HBO",HBO 2
+HD
+http://proxyts.ec.cx:8082/hls1/hbo2.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762040_77185eac2297557cfa23c38270dbf7383daaf5ad.png" group-title="Canais HBO",HBO Plus
+HD
+http://proxyts.ec.cx:8082/hls1/hboplus.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature" tvg-logo="http://img.starbr.in/1559762087_4484b1196124231578e93b9f38c35b5d283f2b6b.png" group-title="Canais HBO",HBO Signature
+HD
+http://proxyts.ec.cx:8082/hls1/hbosignature.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family" tvg-logo="http://img.starbr.in/1559761893_01080c8b3204e55ac25c697b0474c2db0d0ce1c5.png" group-title="Canais HBO",HBO Family
+HD
+http://proxyts.ec.cx:8082/hls1/hbofamily.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="MHD" tvg-name="HBO MUNDI" tvg-logo="http://img.myapp.st/1581121936_50a3f7c503b77778d785e90df0145c8fd76d1152.jpg" group-title="Canais HBO",HBO MUNDI
+HD
+http://proxyts.ec.cx:8082/hls1/max.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="MAP" tvg-name="HBO Xtreme HD" tvg-logo="http://img.myapp.st/1581122147_cd5410647c5e9678438ecb484b21f4177fa6e6d1.jpg" group-title="Canais HBO",HBO Xtreme HD
+http://proxyts.ec.cx:8082/hls1/maxprime.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://img.myapp.st/1581122016_4f8ba1fbd07a3f3d7f95a165f799f2a8dbeac866.jpg" group-title="Canais HBO",HBO Pop HD
+http://proxyts.ec.cx:8082/hls1/maxup.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax HD [PLUS]" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Filmes e Séries",Cinemax HD    
+http://proxyts.ec.cx:8082/hls1/cinemax.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Canais TELECINE",Telecine Action
+HD
+http://proxyts.ec.cx:8082/hls1/telecineaction.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Canais TELECINE",Telecine Premium
+HD
+http://proxyts.ec.cx:8082/hls1/telecinepremium.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch" tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Canais TELECINE",Telecine Touch
+HD
+http://proxyts.ec.cx:8082/hls1/telecinetouch.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun" tvg-logo="http://img.starbr.in/1559768244_cf9af94b93e3e9822e29adb9743aef3ed5802712.png" group-title="Canais TELECINE",Telecine Fun
+HD
+http://proxyts.ec.cx:8082/hls1/telecinefun.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Canais TELECINE",Telecine Pipoca
+HD
+http://proxyts.ec.cx:8082/hls1/telecinepipoca.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult" tvg-logo="http://img.starbr.in/1559768182_1717ffef52357c6ffb97f32c3482c3e460e06287.jpg" group-title="Canais TELECINE",Telecine Cult
+HD
+http://proxyts.ec.cx:8082/hls1/telecinecult.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="MGH" tvg-name="AMC" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Séries",AMC
+HD
+http://proxyts.ec.cx:8082/hls1/amc.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX" tvg-logo="http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title="Filmes e Séries",FOX
+HD
+http://proxyts.ec.cx:8082/hls1/fox.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="FO1" tvg-name="FOX Premium HD" tvg-logo="http://img.starbr.in/1559757449_4d49d0230e3bcdbddd4cf31f2c2e735023fc6573.png" group-title="Filmes e Séries",FOX Premium
+HD
+http://proxyts.ec.cx:8082/hls1/foxpremium1.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="FOA" tvg-name="Fox Premium 2" tvg-logo="http://img.starbr.in/1559757519_97a846e24637e8062e2c8ec7af9a921750b2448a.png" group-title="Filmes e Séries",Fox Premium 2
+HD
+http://proxyts.ec.cx:8082/hls1/foxpremium2.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="SCI" tvg-name="Syfy" tvg-logo="http://img.starbr.in/1559767978_264d890564806d9bd4d65f24015abfd21d7d5edc.png" group-title="Filmes e Séries",Syfy
+HD
+http://proxyts.ec.cx:8082/hls1/syfy.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="MPX" tvg-name="MegaPix" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762850_96d6e189ce41f2c1050ec0095ff91dfff5577169.png" group-title="Filmes e Séries",MegaPix
+HD
+http://proxyts.ec.cx:8082/hls1/megapix.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="SPA" tvg-name="Space" tvg-logo="http://img.starbr.in/1559766918_c0073c730f58bbd5cdaa3143f58a6afb80ebeacd.png" group-title="Filmes e Séries",Space
+HD
+http://proxyts.ec.cx:8082/hls1/space.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="TCM" tvg-name="TCM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768471_301eda035c94a449755f1ea79b2208599af261b0.png" group-title="Filmes e Séries",TCM
+SD
+http://proxyts.ec.cx:8082/hls1/tcm.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal" tvg-logo="http://img.starbr.in/1559767887_978f5018ea1c7b9a3b529306c6e90fcc9b4430b2.png" group-title="Filmes e Séries",Studio Universal
+HD
+http://proxyts.ec.cx:8082/hls1/studiouniversal.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel" tvg-logo="http://img.starbr.in/1559767887_978f5018ea1c7b9a3b529306c6e90fcc9b4430b2.png" group-title="Filmes e Séries",Universal Channel
+HD
+http://proxyts.ec.cx:8082/hls1/universal.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel" tvg-logo="http://img.starbr.in/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Filmes e Séries",Warner Channel
+HD
+http://proxyts.ec.cx:8082/hls1/warner.m3u8? PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="http://img.starbr.in/1559768670_0f6919dd5e99410decc40d8a186989957324a660.png" group-title="Filmes e Séries",TNT
+HD
+http://proxyts.ec.cx:8082/hls1/tnt.m3u8? PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title="Filmes e Séries",AXN
+HD
+http://proxyts.ec.cx:8082/hls1/axn.m3u8? PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Sony" tvg-logo="http://img.starbr.in/1559766866_9c82c923dafb334fa5a7b1b308b61a1a94cc1cd6.png" group-title="Filmes e Séries",SONY
+HD
+http://proxyts.ec.cx:8082/hls1/sony.m3u8? PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="FLI" tvg-name="Fox Life" tvg-logo="http://img.starbr.in/1559757396_e20962937e7e156228a399b034ee63d4de75914f.png" group-title="Filmes e Séries",Fox Life
+HD
+http://list.deeplist.nl:80/testeweb/241189dias/1037? 
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="TNS" tvg-name="TNT Séries" tvg-logo="http://img.starbr.in/1559768728_eb93074e60333bfa09df1e9f942483932fe75ee0.png" group-title="Filmes e Séries",TNT Séries
+HD
+http://proxyts.ec.cx:8082/hls1/tntseries.m3u8? PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Filmes e Séries",A&E
+HD
+http://list.deeplist.nl:80/testeweb/241189dias/52645? 
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-ID="PAR" tvg-name="Paramount Channel" tvg-logo="http://img.starbr.in/1559763768_da459707ae1064bd6512c81181780fa0af78a857.png" group-title="Filmes e Séries",Paramount Channel
+HD
+http://proxyts.ec.cx:8082/hls1/paramount.m3u8? PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://img.starbr.in/1559755088_fbef5bc2fb73c82d4992227200c8f6ea085ea099.jpg" group-title="Filmes e Séries",CC HD
+http://proxyts.ec.cx:8082/hls1/comedycentral.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentários",ANIMAL PLANET
+http://proxyts.ec.cx:8082/hls1/animalplanet.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png" group-title="Documentários",DISCOVERY CHANNEL
+http://proxyts.ec.cx:8082/hls1/discovery.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="http://img.starbr.in/1559755776_3157466fb16c7208876e84ddba31f7f58e86fbbd.jpg" group-title="Documentários",DISCOVERY SCIENCE
+http://proxyts.ec.cx:8082/hls1/discoverysience.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="http://img.starbr.in/1559755885_5df701f3fd0c97c072c39b97b60db4dac748e4e4.png" group-title="Documentários",DISCOVERY THEATER 
+http://proxyts.ec.cx:8082/hls1/discoverytheater.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="http://img.starbr.in/1559756160_99f754cbb72bcfc2109ceafbbb7d10e0ed8e492b.png" group-title="Documentários",DISCOVERY WORLD 
+http://proxyts.ec.cx:8082/hls1/discoveryworld.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title="Documentários",H2 
+http://proxyts.ec.cx:8082/hls1/history2.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="History" tvg-logo="http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png" group-title="Documentários",History 
+http://proxyts.ec.cx:8082/hls1/history.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="http://img.starbr.in/1559763269_0911abd3e596cd1647b29da386097cc9880bb72e.png" group-title="Documentários",Nat Geo Wild
+http://proxyts.ec.cx:8082/hls1/natgeowild.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Nat Geo" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559763330_5716929597eb7e2dbc4e4a4a97abe4cca421765b.jpg" group-title="Documentários",Nat Geo
+http://proxyts.ec.cx:8082/hls1/natgeo.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://img.starbr.in/1559757231_e18de856b55ca6045ba22a262a3ac402aff01d1c.png" group-title="Variedades",Food Network
+http://proxyts.ec.cx:8082/hls1/foodnetwork.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Home&Health" tvg-logo="http://img.starbr.in/1559755591_b00ab75966d3f8ec9b89b5bb02ea9951a38d1d82.jpg" group-title="Variedades",Home&Health
+http://proxyts.ec.cx:8082/hls1/discoveryhomeihealth.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="+Globosat" tvg-logo="http://img.starbr.in/1559762573_a9c98b1ed3bbd822e5e07390cc0c912e10271869.png" group-title="Variedades",+Globosat
+http://proxyts.ec.cx:8082/hls1/maisbobosat.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://img.starbr.in/1559762507_fc26b265df648c38c77d65cb7285d1e08323b311.png" group-title="Variedades",Lifetime
+http://proxyts.ec.cx:8082/hls1/lifetime.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://img.starbr.in/1559768628_3c5f777fbb346843410bb847b692c0dab9968f0b.png" group-title="Variedades",TLC
+http://proxyts.ec.cx:8082/hls1/tlc.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Curta" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755293_0c9755ae8a39295ff6897ebef042003480f25759.png" group-title="Variedades",Curta
+http://proxyts.ec.cx:8082/hls1/curta.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Investigação Discovery" tvg-logo="http://img.starbr.in/1559762432_ff9b16c225bc3ba42286933f4b1b5018c99e7b60.jpg" group-title="Documentários",Investigação Discovery 
+http://proxyts.ec.cx:8082/hls1/investigacaodiscovery.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title="Documentários",Discovery Turbo 
+http://proxyts.ec.cx:8082/hls1/discoveryturbo.m3u8?
+PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",Combate
+http://nimblestream2.canais.link/hls1/combate.m3u8?
+PEDROJUNIORTUTORIAIS
+
+
+
